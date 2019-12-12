@@ -9,6 +9,6 @@ export class AppComponent implements OnInit {
   title = 'angular-eslint';
 
   ngOnInit() {
-
+    var test = "test";
   }
 }
