@@ -27,7 +27,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 In order for all the configuration we carry out to take effect we have to verify that we have installed the ESLint plugin in the VSCode, if not, we must install it.
 
-![ESLint](eslint.png)
+![ESLint](eslint2.png)
 
 ## Optional
 
