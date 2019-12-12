@@ -22,9 +22,15 @@
     "Airbnb",
     "Typescript",
     "Javascript",
-    "Yarn"
+    "Yarn",
+    "Tutorial"
   ],
-  "private": true,
+  "author": {
+    "email": "jhonatanmorenoloayza@gmail.com",
+    "name": "Jhonatan Moreno"
+  },
+  "private": false,
+  "license": "MIT",
   "dependencies": {
     "@angular/animations": "~8.2.11",
     "@angular/common": "~8.2.11",
