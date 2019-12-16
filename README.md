@@ -8,7 +8,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 3. Can use `npm install or yarn add` in this case I use yarn.
 
-4. Uninstall TSLint with `yarn remove eslint`.
+4. Uninstall TSLint with `yarn remove tslint`.
 
 5. Run `yarn install eslint -D`.
 
